@@ -1,0 +1,12 @@
+../Core/Src/main.c:128:13:led_green_handler	2
+../Core/Src/main.c:159:13:led_red_handler	2
+../Core/Src/main.c:186:13:button_task_handler	3
+../Core/Src/main.c:206:13:resume_all_task_handler	2
+../Core/Src/main.c:229:5:main	5
+../Core/Src/main.c:336:6:SystemClock_Config	4
+../Core/Src/main.c:390:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:438:13:MX_GPIO_Init	1
+../Core/Src/main.c:491:6:StartDefaultTask	1
+../Core/Src/main.c:504:6:MPU_Config	1
+../Core/Src/main.c:539:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:556:6:Error_Handler	1

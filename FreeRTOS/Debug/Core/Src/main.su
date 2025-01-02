@@ -1,0 +1,12 @@
+../Core/Src/main.c:128:13:led_green_handler	40	static
+../Core/Src/main.c:159:13:led_red_handler	40	static
+../Core/Src/main.c:186:13:button_task_handler	24	static
+../Core/Src/main.c:206:13:resume_all_task_handler	24	static
+../Core/Src/main.c:229:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:336:6:SystemClock_Config	120	static
+../Core/Src/main.c:390:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:438:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:491:6:StartDefaultTask	16	static
+../Core/Src/main.c:504:6:MPU_Config	24	static
+../Core/Src/main.c:539:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:556:6:Error_Handler	4	static,ignoring_inline_asm
